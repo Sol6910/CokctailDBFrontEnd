@@ -17,6 +17,7 @@ body{
 .inputBox{
     position: relative;
     width: 250px;
+    color: #fff;
 }
 .inputBox input{
     width: 100%;
